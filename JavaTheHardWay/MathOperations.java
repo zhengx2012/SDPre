@@ -1,8 +1,8 @@
 public class MathOperations {
     public static void main( String[] args ) {
-        int a, b, c, d, e, f, g;
+        int a, b, c, d, e, f, g, h;
         double x, y, z;
-        String one, two, both;
+        String one, two, three, both;
 
         a = 10;
         b = 27;
@@ -29,7 +29,12 @@ public class MathOperations {
         
         one = "dog";
         two = "house";
+        three = "roof";
         both = one + two;
         System.out.println( both );
+        System.out.println( both + " with a " + three);
+
+        h = g + a;
+        System.out.println( "g + a is " + h );
     }
 }
