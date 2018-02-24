@@ -1,2 +1,4 @@
 *.class
 HelloWorld.java
+/.idea
+.idea/
