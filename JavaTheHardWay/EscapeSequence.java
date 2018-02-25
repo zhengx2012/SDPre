@@ -12,6 +12,6 @@ public class EscapeSequence {
     System.out.println( "\\ // -=- \\ //" );
     System.out.println( "\\\\ \\\\\\ \\\\\\\\" ); //it takes 2 to make 1
     System.out.println( "I hope you understand \"escape sequence\" now.\n" );
-    // and commens. :)
+    // and comments. :)
   }
 }
