@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Objective7Lab3 {
+public class Objective6Lab5 {
     public static void main(String [] args) {
         Scanner scanner = new Scanner(System.in);
         int selection;
@@ -26,5 +26,8 @@ public class Objective7Lab3 {
             }
         } while (selection !=3);
         scanner.close();
+
     }
 }
+
+
